@@ -9,3 +9,5 @@ Creditos a jean carlos por realizar el trabajo
 
 En este curso tomado se lograron aplicar conocimientos para el posterior desarrollo y se usaron
 herramientas como git bash
+
+Disponible para todas las edades
