@@ -5,4 +5,13 @@ Tengo basta experiencia en la rama de base de datos, linux y administracion de s
 ###### Espero que esto que he realizado sea de gran ayuda para ustedes. muchas gracias por haberse tomado el tiempo de ver mi codigo.:tw-1f603:
 
 
+<<<<<<< HEAD
 Creditos a jean carlos por realizar el trabajo
+=======
+Creditos a jean carlos por realizar el trabajo
+
+En este curso tomado se lograron aplicar conocimientos para el posterior desarrollo y se usaron
+herramientas como git bash
+
+Disponible para todas las edades
+>>>>>>> readme-creditos
